@@ -1,0 +1,8 @@
+{
+  "name": "Paramount+ International (Community)",
+  "description": "Experimenteller Paramount+-Provider für Cloudstream. Eigenes Abo erforderlich.",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/YOUR_GITHUB_USER/cloudstream-paramountplus/builds/plugins.json"
+  ]
+}

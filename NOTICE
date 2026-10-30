@@ -1,0 +1,9 @@
+The Gradle wrapper scripts and wrapper JAR originate from recloudstream/TestPlugins
+and the Gradle project. Gradle wrapper: Apache License 2.0.
+https://www.apache.org/licenses/LICENSE-2.0
+
+The project structure follows recloudstream/TestPlugins, whose README dedicates
+that template to the public domain. Cloudstream's build tooling and host API
+remain separate upstream dependencies under their respective licenses.
+
+Paramount+, Widevine and related names are trademarks of their respective owners.
